@@ -4,13 +4,13 @@
 
 ###  Este projeto analisa a variação percentual anual dos preços médios de revenda de combustíveis no estado do Rio de Janeiro. Os dados abrangem os anos de 2006 a 2020 e apresentam as seguintes informações:
 
-- Ano: O ano correspondente ao registro.
+```- Ano: O ano correspondente ao registro.```
 
-- Preço Médio de Revenda: Valor médio de revenda do combustível em reais (R$).
+```- Preço Médio de Revenda: Valor médio de revenda do combustível em reais (R$).```
 
-- Preço do Ano Anterior: Valor médio do preço de revenda no ano anterior.
+```- Preço do Ano Anterior: Valor médio do preço de revenda no ano anterior.```
 
-- Variação Percentual: Diferença percentual entre o preço atual e o preço do ano anterior.
+```- Variação Percentual: Diferença percentual entre o preço atual e o preço do ano anterior.```
 
 ### O objetivo é identificar tendências de aumento ou redução nos preços ao longo dos anos, fornecendo insights sobre a dinâmica de mercado.
 
